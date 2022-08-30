@@ -9,6 +9,7 @@ public class Main {
         car1.name="BMW";
 
 
+
         //added car3
         Car3 car3=new Car3();
         car3.color="Gray";
@@ -16,6 +17,14 @@ public class Main {
         car3.model="Crolla";
         car3.name="Toyota";
         
+
+
+        //adding car2
+        Car2 car2=new Car2();
+        car2.color="Black";
+        car2.door=6;
+        car2.name="Honda";
+        car2.model="Civic";
 
     }
 }
